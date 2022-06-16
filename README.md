@@ -2,8 +2,6 @@
 
 ## _Why? Because why not?_
 
----
-
 ## **Usage**
 
 Python version:
